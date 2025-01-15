@@ -10,4 +10,6 @@ done < out1
 ls *html
 echo "this is test"
 echo "tsting the pull"
+echo "testing the fetch"
+
 
