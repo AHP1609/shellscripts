@@ -8,4 +8,6 @@ do
 	mv $name.txt $name.html
 done < out1
 ls *html
+echo "this is test"
+echo "tsting the pull"
 
