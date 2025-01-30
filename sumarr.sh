@@ -6,7 +6,7 @@ for i in $num
 do
 	echo "$i"
 	sum=`expr $sum + $i`
- echo "success"
 done
+echo "success"
 echo "$sum"
 
